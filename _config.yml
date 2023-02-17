@@ -27,6 +27,7 @@ plugins:
 remote_theme: jekyll/minima
 minima:
   skin: solarized
+show_excerpts: true
 
 plugins:
   - jekyll-last-modified-at
