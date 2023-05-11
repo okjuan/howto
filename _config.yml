@@ -14,8 +14,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: how to
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/howto" # the subpath of your site, e.g. /blog
+url: "https://okjuan.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #github_username:  okjuan
 
 # Build settings
