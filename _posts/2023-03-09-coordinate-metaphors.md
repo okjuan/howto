@@ -23,7 +23,7 @@ Possibilities include: `pushes`, `nudges`, `tips`, `pulls`, `shifts`.
 We are not limited to physicality, either: action words like `coaxes` and `lures` are also viable.
 
 We can't use `leads` because that would clash with `leading` in the second part of the sentence.
-(Although, if we really liked `leads` as a replacement for `wrenches`, we could [revise the sentence]({% post_url 2023-05-09-revise-a-sentence %}) to accomodate it.)
+(Although, if we really liked `leads` as a replacement for `wrenches`, we could [revise the sentence]({{ site.baseurl }}{% post_url /2023-05-09-revise-a-sentence %}) to accomodate it.)
 
 To pick a solution, test it against the problem.
 You know you've found a solution when the two images flow into each other or click into place like neighboring puzzle pieces.
