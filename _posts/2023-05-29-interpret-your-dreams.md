@@ -8,8 +8,8 @@ tags: dreams subsconscious psychosis sanity science neuroplasticity
 
 Freud, apparently, thought dreams prevented us from going crazy.
 
-According to him, dreams are expressions of the desires and fears we don't dare face in waking life, facets of ourselves that we keep submerged beneath our consciousness like a child smothering a ball under the surface of a pool.
-And, in the dark of night, dreams relieve the pressure by giving audience to these repressed urges.
+According to him, dreams are expressions of the desires and fears we don't dare face in waking life, facets of ourselves that we repress like a child smothers a ball under the surface of a pool.
+And, in the dark of night, dreams relieve the pressure by playing out these urges.
 Were they not allowed these covert outings, but blocked and pushed indefinitely, they would eventually burst through the surface and rupture our psyche.
 And so dreams are the release valve for the unrelenting force our unconscious exerts to have its will expressed.
 
@@ -37,8 +37,9 @@ He offers a clever answer: the brain is old, but language is new.
 And, just like us, the brain prefers to communicate in its native tongue: imagery.
 
 But this idea, as stirring as it is, might be no more accurate than Freud's.
-In his book [Livewired](https://eagleman.com/books/livewired/), neuroscientist David Eagleman proposes a theory of dreams and a rather different answer to the Kekulé Problem.
-The electrical signals emitted in REM sleep are scheduled to exercise the part of our brains typically dedicated to vision, which would not see much action in the dark of night otherwise.
+In his book [Livewired](https://eagleman.com/books/livewired/), neuroscientist David Eagleman proposes a theory of dreams that suggest a rather different answer to the Kekulé Problem.
+Eagleman delves into neuroplasticiity..
+Observing the electrical signals emitted in REM sleep are scheduled to exercise the part of our brains typically used for vision, which would not see much action in the dark of night otherwise.
 ...
 
 (To be completed. Almost done.)
