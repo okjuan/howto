@@ -36,16 +36,9 @@ In his essay [The Kekulé Problem](https://nautil.us/the-kekul-problem-236574/),
 He offers a clever answer: the brain is old, but language is new.
 And, just like us, the brain prefers to communicate in its native tongue: imagery.
 
-But this idea, as stirring as it is, might be no more accurate than Freud's.
-In his book [Livewired](https://eagleman.com/books/livewired/), neuroscientist David Eagleman proposes a theory of dreams that suggest a rather different answer to the Kekulé Problem.
-Eagleman delves into neuroplasticiity..
-Observing the electrical signals emitted in REM sleep are scheduled to exercise the part of our brains typically used for vision, which would not see much action in the dark of night otherwise.
-...
-
-(To be completed. Almost done.)
-
-Notes:
-- Brains, unlike rocks, change all the time.
-- Neural rewiring happens all the time and not just in children
-- David Eagleman and assistant(?) propose a theory: dreams are a side-effect of the brain routine exercise of the visual part of our brain, which it does to make sure the neural real estate is not "annexed" by other senses
-    - REM sleep (and therefore dreaming) is less common the older we get, we correlates with the decrease in risk of brain colonialism by other senses
+But this idea, stirring as it is, might be no more accurate than Freud's.
+In his book [Livewired](https://eagleman.com/books/livewired/), neuroscientist David Eagleman proposes a theory of dreams that suggests a rather different answer to the Kekulé Problem.
+Eagleman proposes that the brain activity responsible for dreams, which targets the parts of the brain typically used for vision, exists to maintain our sense of sight.
+Without this scheduled strengthening exercise, it could be overtaken by other neuron-hungry brain processes that don't depend on light of day to stay active.
+If this is true, then the answer to the Kekulé Problem is less mysterious.
+Dreams are visual because their machinery is.
