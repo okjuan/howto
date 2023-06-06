@@ -1,6 +1,6 @@
 ---
 layout: post
-title: how to revise a sentence (2)
+title: how to revise a sentence (3)
 theme: write
 ---
 
