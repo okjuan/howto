@@ -15,7 +15,7 @@ First of all, the preamble is unnecessary.
 And let us decide how significant your fact is.
 Don't be so insecure (or arrogant).
 
-> We all begin with the natural equipment to live a thousand kinds of life but end in the end having lived only one.
+> ~~One of the most significant facts about humanity may finally be that~~ We all begin with the natural equipment to live a thousand kinds of life but end in the end having lived only one.
 
 How good is a sentence if decapitation improves it?
 
@@ -24,22 +24,26 @@ We "end in the end"?
 Sure, but only after we have begun in the beginning.
 (Was he trying to reach a word count? Or distract a doorman while someone snuck in?)
 
-> We all begin with the natural equipment to live a thousand kinds of life but in the end live only one.
+> We all begin with the natural equipment to live a thousand kinds of life but ~~end~~ in the end ~~having lived~~ live only one.
+
+For our troubles, we get a free upgrade from **having lived** to **live**.
+Free the verb to be a verb.
 
 We've chopped our way down to the meat of the sentence.
 Is there any fat to trim?
 
 Is "We all" better than "We"?
-How much more is "kinds of life" giving than "lives" that it deserves three times the space?
+
+How much better is "kinds of life" than "lives" that it deserves three times the space?
 Sentence space is precious.
 Raise the rent.
 
-> We begin with the natural equipment to live a thousand lives but in the end live only one.
+> We ~~all~~ begin with the natural equipment to live a thousand ~~kinds of life~~ lives but in the end ~~having lived~~ live only one.
 
 Can we prune more?
 Riding the high of halving the original, it's tempting to cut out "in the end".
 
-> We begin with the natural equipment to live a thousand lives but live only one.
+> We begin with the natural equipment to live a thousand lives but ~~in the end~~ live only one.
 
 But "in the end" is contributing.
 It invokes the passage of time by drawing a line from "begin".
@@ -55,7 +59,7 @@ There are several words here doing a job.
 The "the" in front of "natural equipment" is one of those pesky ones.
 It's like a plain, mild-mannered friend that you think you can exclude from the group but without whom things are somehow less comfortable.
 
-> We begin with natural equipment to live a thousand lives but in the end live only one.
+> We begin with ~~the~~ natural equipment to live a thousand lives but in the end live only one.
 
 When we scrutinize words like this, when we interrogate them, we learn what each of them is doing.
 This allows us not only to eliminate useless words but to replace imprecise ones.
