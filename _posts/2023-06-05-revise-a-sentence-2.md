@@ -78,4 +78,5 @@ It sticks the landing without too extravagant a flourish.
 
 > We begin with the natural equipment to live a thousand lives but in the end live only one.
 
-Ok, good enough. Next sentence.
+Much better.
+Ok, next sentence.
