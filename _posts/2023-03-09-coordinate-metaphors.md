@@ -3,7 +3,7 @@ layout: post
 title: how to coordinate metaphors
 theme: write
 permalink: /coordinate-metaphors
-tags: imagery cohesiveness
+tags: imagery cohesiveness writing
 ---
 
 It's important to keep your metaphors from bumping into one another.

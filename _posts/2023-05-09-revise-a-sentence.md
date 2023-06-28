@@ -3,7 +3,7 @@ layout: post
 title: how to revise a sentence
 theme: write
 permalink: /revise-a-sentence
-tags: editing
+tags: editing writing
 ---
 
 Suppose you have this sentence:

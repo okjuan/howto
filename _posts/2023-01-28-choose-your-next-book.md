@@ -3,7 +3,7 @@ layout: post
 title: how to choose your next book
 theme: read
 permalink: /choose-your-next-book
-tags: decision-making
+tags: decision-making reading
 ---
 
 There is a ridiculous amount of content out there.
