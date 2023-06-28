@@ -6,16 +6,12 @@ permalink: /psychoanalyze-yourself
 tags: psychology subconscious
 ---
 
-idea: (see draft below)
----
+I've been interested in psychoanalysis since at least 2014, when I read about Freud's concept of [sublimation](https://www.wikiwand.com/en/Sublimation_(psychology)).
+Despite the distrust most folks today have for psychoanalysis, I trust it has insights.
+I also find ridiculous Freud's insistence that the Oedipus Complex is not only a universal childhood trauma but _the_ central childhood trauma.
+But I'm more interested in _descriptive_ theories rather than _prescriptive_ ones.
+I am skeptical of being given a blueprint
 
-I've been interested in psychology for a while now, ...
-TODO: mention psychoanalysis and Lacan
-TODO: ? link to `how to edit your writing` as example of my 1st(?) exposure to Freudian concepts
-TODO: reference `how to understand the world`
-
-draft
----
 I'm less interested in elaborate psychological theories that peel off from the concrete into their own world.
 I don't want a prescriptive blueprint,
 A model sketched separately and then overlayed on top.

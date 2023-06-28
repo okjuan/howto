@@ -4,8 +4,10 @@ title: how to do whatever you want
 theme: live
 ---
 
-write for work to get to investigate an array of topics
+A not-so-secret desire of mine is to write non-fiction professionally.
+To dive into worlds for the sake of experiencing, observing, and understanding them and then responding by creating something.
 
-the special thing about writing as a profession
-is the repeated opportunity to dive into a new world
-McPhee is a great example, though he chose worldsk -- The Arctic, Oranges -- I probably wouldn't
+John McPhee, for example, wrote at length about oranges, the movement of coal across America, the shifting flow of the Mississippi River, and other scintillating topics.
+
+But for now I'm content with working as a software engineer and writing on my own time.
+It's [the perfect balance](https://sive.rs/balance).

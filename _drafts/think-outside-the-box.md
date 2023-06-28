@@ -11,8 +11,7 @@ I was hoping to relax and read, but now I have to knead out a logistical pain in
 But when you work quickly, you don't think to shift assumptions that seem immutable.
 You see the obvious options, but you don't see their hybrids, the combinations that compose new solutions.
 
-My favorite story of out-of-the-box thinking is from AirBnB's early days.
-
-Frustrated, and twenty thousand(?) dollars in debt, the co-founders paused their entrepreneurial efforts to do something fun, a palette-cleansing activity.
-They designed cereal boxes themed for the 2008(?) presidential campaign -- Obama O's and Cap'n McCain's.
-They made 100(?) of each and sold them for $40 a piece, recuperating eight thousand(?) dollars and the excitement to get back to their work.
+One of my favorite stories of out-of-the-box thinking is from AirBnB's early days.
+Frustrated and $40K in debt, the co-founders paused their entrepreneurial efforts to do something fun and unrelated to their startup.
+So they designed cereal boxes themed for the 2008 presidential campaign -- Obama O's and Cap'n McCain's.
+They marketed them as collector's items and sold them for $40 apiece, recuperating $30K as well as the enthusiasm to get to work.
